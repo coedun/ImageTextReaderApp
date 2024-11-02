@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 Scripts/
+./Scripts
+
 Include/
 # C extensions
 *.so
